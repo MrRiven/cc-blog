@@ -2,7 +2,7 @@
 
 > 需在 public 目录下引入 tinymce 字体和样式文件
 
-> [见附件](https://github.com/MrRiven/cs-blog/tree/main/public/tinymce)
+> [见附件](https://github.com/MrRiven/cc-blog/tree/main/public/tinymce)
 
 ## 安装
 
