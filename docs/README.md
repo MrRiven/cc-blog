@@ -5,6 +5,7 @@
 - [requestAnimationFrame](js/requestAnimationFrame)
 - [html2canvas 使用](js/html2canvas)
 - [copy 复制](js/copy)
+- [JS 小技巧](js/skill-js)
 - [ES6 常用操作](js/skill-es6)
 
 # CSS
